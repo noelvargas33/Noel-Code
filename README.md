@@ -1,7 +1,3 @@
-# Noel Code
-
-A personalized edition of [Suno Super Prompt](https://github.com/jasonmello/suno-super-prompt) by Jason Mello, prepared for Noel Vargas.
-
 Create structured Suno prompts with TITLE, LYRICS, STYLE, and EXCLUDE fields. Includes arrangement and vocal guidance, genre references, complete examples, and a Python character-count and layout validator.
 
 ## Contents
@@ -30,8 +26,8 @@ Extract this archive and upload the contents of the `noel-code` folder to your r
 
 ## Attribution and changes
 
-Original project: Jason Mello's Suno Super Prompt, MIT licensed. Original copyright and license are preserved in `LICENSE`.
+Original project:Original copyright and license are preserved in `LICENSE`.
 
 This edition changes the skill name and display name to Noel Code, updates the invocation example, and omits the conflicting audio-processing addendum from the upstream copy. It contains no audio-watermark or AI-identifier removal tool. Core prompting references, examples, and validator derive from the original project.
 
-This is an independent adaptation, not an official Suno product.
+This is an independent adaptation.
